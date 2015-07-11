@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<ArrayOfConfigInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConfigInfo>
+    <Id>1</Id>
+    <Name>XX地址-业务对接</Name>
+    <Description>XX使用的时sftp方法进行文件传输</Description>
+    <Json>
+      <![CDATA[
+      {
+      "FtpPassword": "1",
+      "FtpRemotePath": "1",
+      "FtpServerIp": "1",
+      "FtpUserId": "1"
+      }]]>
+    </Json>
+  </ConfigInfo>
+  <ConfigInfo>
+    <Id>2</Id>
+    <Name>XX名称</Name>
+    <Description>配置说明</Description>
+    <Json>json格式的配置信息</Json>
+  </ConfigInfo>
+</ArrayOfConfigInfo>
